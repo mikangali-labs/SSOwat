@@ -1,0 +1,15 @@
+.logged .logo img {
+  width: 160px; }
+
+.header .title {
+  color: #FFFFFF;
+  position: absolute;
+  top: 20px;
+  left: 30px; }
+.header .user-menu {
+  position: absolute;
+  right: 0px;
+  top: 0px; }
+
+.overlay {
+  margin-top: 40px; }
